@@ -88,6 +88,8 @@ echo "portalrecarga.vivo.com.br/recarga
 navegue.vivo.com.br/pre
 portalrecarga.vivo.com.br/controle
 navegue.vivo.com.br/controle
+.whatsupp.net
+.whatsapp.com
 d1n212ccp6ldpw.cloudfront.net
 .claro.com.br
 .claro.com.sv
